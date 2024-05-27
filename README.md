@@ -1,8 +1,8 @@
-# Welcome to the World of Python!
+# Howdy, Python Pioneers!
 
-<img src="header1.png" alt="header1" width="650"/>
+<img src="header.png" alt="header" width="650"/>
 
-Python is a powerful and versatile programming language known for its simplicity and readability. Let's explore some concepts and features to help you get started on the right foot.
+So, you're an experienced cowboy but have never ridden around these parts? Here's your basic guide. Welcome to the rodeo..
 
 ## Key Features of Python
 
