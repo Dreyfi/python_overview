@@ -168,7 +168,6 @@ source my_environment/bin/activate  # On Windows, use `my_environment\Scripts\ac
 
 3. Package Management:
 - Use pip to install packages.
-- 
 
 ```bash
 # Installing a package
